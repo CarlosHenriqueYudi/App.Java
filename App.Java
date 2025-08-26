@@ -10,18 +10,6 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.*;
 
-
-/**
-* Aplicativo Kanban Local em Java puro (sem frameworks).
-* - Backend: HttpServer embutido
-* - Frontend: HTML + CSS + JS embutido em string
-* - Persistência: Arquivo CSV
-*
-* Funcionalidades:
-*  - Criar, listar, mover e excluir tarefas
-*  - API REST em JSON
-*  - Página estática para visualização estilo Kanban
-*/
 public class App {
 
 
